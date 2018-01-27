@@ -98,5 +98,12 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '100'
+    - description: важный план
+      items:
+        - основное
+        - важное
+        - лучшее
+      plan: надо
+      price: '120'
 ---
 
